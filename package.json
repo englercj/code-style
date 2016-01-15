@@ -1,0 +1,21 @@
+{
+  "name": "code-style",
+  "version": "1.0.0",
+  "description": "My own opinionated code style",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/englercj/code-style.git"
+  },
+  "files": [
+    ".editorconfig",
+    ".jscsrc",
+    ".eslintrc.json"
+  ],
+  "author": "Chad Engler <chad@pantherdev.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/englercj/code-style/issues"
+  },
+  "homepage": "https://github.com/englercj/code-style#readme"
+}
