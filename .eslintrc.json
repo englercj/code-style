@@ -42,7 +42,7 @@
         "no-unreachable": 2,
         "no-unsafe-finally": 2,
         "use-isnan": 2,
-        "valid-jsdoc": 2,
+        "valid-jsdoc": [2, { "requireReturn": false, "requireReturnType": true, "requireParamDescription": true, "requireReturnDescription": true }],
         "valid-typeof": 2,
 
         // Best Practices
