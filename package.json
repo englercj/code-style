@@ -1,5 +1,5 @@
 {
-  "name": "code-style",
+  "name": "@englercj/code-style",
   "version": "1.0.0",
   "description": "My own opinionated code style",
   "main": "index.js",
