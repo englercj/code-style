@@ -1,6 +1,6 @@
 {
   "name": "@englercj/code-style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My own opinionated code style",
   "main": "index.js",
   "repository": {
