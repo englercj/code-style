@@ -1,8 +1,6 @@
 {
     "env": {
-        "es6": true,
-        "commonjs": true,
-        "node": true
+        "es6": true
     },
     "globals": {
     },
@@ -71,7 +69,7 @@
         "no-extra-label": 2,
         "no-fallthrough": 2,
         "no-floating-decimal": 2,
-        "no-implicit-coercion": 2,
+        "no-implicit-coercion": [2, { "boolean": false, "number": true, "string": true, "allow": [] }],
         "no-implicit-globals": 2,
         "no-implied-eval": 2,
         "no-invalid-this": 0,
@@ -241,7 +239,7 @@
         "prefer-spread": 2,
         "prefer-template": 2,
         "require-yield": 2,
-        "rest-spread-spacing": [2, "always"],
+        "rest-spread-spacing": [2, "never"],
         "sort-imports": 0,
         "template-curly-spacing": [2, "never"],
         "yield-star-spacing": [2, "before"]
