@@ -17,6 +17,6 @@
     ".eslintrc.json"
   ],
   "peerDependencies": {
-    "eslint": "^3.0.0"
+    "eslint": "3.x - 4.x"
   }
 }
